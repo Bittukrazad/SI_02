@@ -14,6 +14,7 @@ Model Development:
 
 The model utilizes a convolutional neural network (CNN) architecture for image classification.
 TensorFlow’s image preprocessing module is used to load and preprocess the dataset from directories, ensuring that images are standardized before feeding them into the model.
+
 Training and Testing:
 
 The training dataset is used to train the model, while the testing dataset evaluates its performance across various butterfly classes.
