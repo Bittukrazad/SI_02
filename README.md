@@ -9,6 +9,7 @@ Dataset Preparation:
 
 The dataset consists of 12594 training images and 500 testing images, spanning 100 different butterfly classes.
 Images are preprocessed and resized to a standard dimension of 180x180 pixels with RGB color channels.
+
 Model Development:
 
 The model utilizes a convolutional neural network (CNN) architecture for image classification.
